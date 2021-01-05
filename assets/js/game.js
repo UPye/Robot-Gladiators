@@ -66,7 +66,7 @@ var fight = function() {
     else {
         fight();
     }
-}   window.alert(playerName + " has chosen to skip the fight!");
+}
 }
 // command to execute the fight.
 
